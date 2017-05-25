@@ -1,0 +1,9 @@
+c:\users\ruslan\documents\visual studio 2015\Projects\BeeHiveControl\BeeHiveControl\bin\Debug\BeeHiveControl.exe.config
+C:\Users\Ruslan\Documents\Visual Studio 2015\Projects\BeeHiveControl\BeeHiveControl\bin\Debug\BeeHiveControl.exe
+C:\Users\Ruslan\Documents\Visual Studio 2015\Projects\BeeHiveControl\BeeHiveControl\bin\Debug\BeeHiveControl.pdb
+C:\Users\Ruslan\Documents\Visual Studio 2015\Projects\BeeHiveControl\BeeHiveControl\obj\Debug\BeeHiveControl.csprojResolveAssemblyReference.cache
+C:\Users\Ruslan\Documents\Visual Studio 2015\Projects\BeeHiveControl\BeeHiveControl\obj\Debug\BeeHiveControl.Form1.resources
+C:\Users\Ruslan\Documents\Visual Studio 2015\Projects\BeeHiveControl\BeeHiveControl\obj\Debug\BeeHiveControl.Properties.Resources.resources
+C:\Users\Ruslan\Documents\Visual Studio 2015\Projects\BeeHiveControl\BeeHiveControl\obj\Debug\BeeHiveControl.csproj.GenerateResource.Cache
+C:\Users\Ruslan\Documents\Visual Studio 2015\Projects\BeeHiveControl\BeeHiveControl\obj\Debug\BeeHiveControl.exe
+C:\Users\Ruslan\Documents\Visual Studio 2015\Projects\BeeHiveControl\BeeHiveControl\obj\Debug\BeeHiveControl.pdb
