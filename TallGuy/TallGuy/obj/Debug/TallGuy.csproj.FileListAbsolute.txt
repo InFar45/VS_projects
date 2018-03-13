@@ -1,0 +1,9 @@
+D:\GH_works\VS_projects\TallGuy\TallGuy\bin\Debug\TallGuy.exe.config
+D:\GH_works\VS_projects\TallGuy\TallGuy\bin\Debug\TallGuy.exe
+D:\GH_works\VS_projects\TallGuy\TallGuy\bin\Debug\TallGuy.pdb
+D:\GH_works\VS_projects\TallGuy\TallGuy\obj\Debug\TallGuy.csprojResolveAssemblyReference.cache
+D:\GH_works\VS_projects\TallGuy\TallGuy\obj\Debug\TallGuy.Form1.resources
+D:\GH_works\VS_projects\TallGuy\TallGuy\obj\Debug\TallGuy.Properties.Resources.resources
+D:\GH_works\VS_projects\TallGuy\TallGuy\obj\Debug\TallGuy.csproj.GenerateResource.Cache
+D:\GH_works\VS_projects\TallGuy\TallGuy\obj\Debug\TallGuy.exe
+D:\GH_works\VS_projects\TallGuy\TallGuy\obj\Debug\TallGuy.pdb

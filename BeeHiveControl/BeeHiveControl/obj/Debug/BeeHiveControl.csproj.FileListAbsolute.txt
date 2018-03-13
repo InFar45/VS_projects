@@ -7,3 +7,6 @@ C:\Users\Ruslan\Documents\Visual Studio 2015\Projects\BeeHiveControl\BeeHiveCont
 C:\Users\Ruslan\Documents\Visual Studio 2015\Projects\BeeHiveControl\BeeHiveControl\obj\Debug\BeeHiveControl.csproj.GenerateResource.Cache
 C:\Users\Ruslan\Documents\Visual Studio 2015\Projects\BeeHiveControl\BeeHiveControl\obj\Debug\BeeHiveControl.exe
 C:\Users\Ruslan\Documents\Visual Studio 2015\Projects\BeeHiveControl\BeeHiveControl\obj\Debug\BeeHiveControl.pdb
+D:\GH_works\VS_projects\BeeHiveControl\BeeHiveControl\bin\Debug\BeeHiveControl.exe.config
+D:\GH_works\VS_projects\BeeHiveControl\BeeHiveControl\obj\Debug\BeeHiveControl.exe
+D:\GH_works\VS_projects\BeeHiveControl\BeeHiveControl\obj\Debug\BeeHiveControl.pdb
